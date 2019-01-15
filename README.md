@@ -1,0 +1,2 @@
+# ZPTurnplate
+本Demo主要介绍了如何利用核心动画和UIView封装的动画来制作转盘转动的效果；还介绍了如何把大图片利用代码裁剪成小图片；还介绍了按钮被点击代码的三部曲；还介绍了NSTimer和CADisplayLink的区别和用法；还介绍了如何自定义一个按钮类，如何修改按钮中的UIImageView和UILabel的尺寸。
